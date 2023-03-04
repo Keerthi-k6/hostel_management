@@ -1,5 +1,5 @@
 # HOSTEL MANAGEMENT
-This is a Hostel Management System implemented in C++ as a command-line application. The system allows the hostel manager to manage various hostel-related tasks such as student registration, room allocation, fee payment, etc.
+This is a Hostel Management System is a project developed as a part of C++ course in the 3rd semester .It is implemented in C++ as a command-line application. The system allows the hostel manager to manage various hostel-related tasks such as student registration, room allocation, fee payment, etc.
 
 Features required in the Hostel Management system:
 1. Login system
